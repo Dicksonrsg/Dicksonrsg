@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dicksonrsg
 - 👀 I’m interested in ... software development and DB management.
-- 🌱 I’m currently learning ... JavaScript, React and CSS.
+- 🌱 I’m currently learning ... Python, Redis, Lambda and AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
